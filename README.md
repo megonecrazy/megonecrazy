@@ -7,7 +7,7 @@ I am a software developer specializing in building and integrating APIs with fro
 
 Have worked with a variety of technologies including:
 
-* Languages: Java, Javascrip,
+* Languages: Java, Javascript, Python
 * Frontend: Reactjs, HTML5 , CSS3
 * Backend Eng Tools: webflux, RESTful, API-gateways
 * Database : SQL, NoSQL
