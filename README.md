@@ -15,3 +15,4 @@ Have worked with a variety of technologies including:
 * Design and Architecture: Microservices, System Design Concepts
 * Data Structure and Algorithms : Arrays, String, LinkedList, HashMap, HashSet, Tree, Trie, Divide and Conqueror 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megonecrazzy&hide_progress=true)
